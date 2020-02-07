@@ -12,7 +12,7 @@ Cyclic tests:
 
 Sensitivity: 
 - Gauge Factor of 103.8
-- response_figure.png shows the relationship between resistance changes and loaded strain. The linear fitting coefficients R^2 of 0.974 implies the response of the sensor is almost perfect linear.
+- response_figure.png shows the relationship between resistance changes and loaded strain. The linear fitting coefficients R<sup>2</sup> of 0.974 implies the response of the sensor is almost perfect linear.
 
 
 
