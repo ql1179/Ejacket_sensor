@@ -1,4 +1,6 @@
-The fabrication process of the sensor is as follows.
+The fabrication process of the sensor is as follows. 
+
+fabrication.png shows the process.
 
 1. We treated PDMS films with about 200μm thickness using O_2 plasma for 10 minutes. As the result, we derive a thin layer of oxidized hydrophilic PDMS.
 2. We coated a conductive thin films of PEDOT/CNFs on to the surface of oxidized hydrophilic PDMS by drop casting.
